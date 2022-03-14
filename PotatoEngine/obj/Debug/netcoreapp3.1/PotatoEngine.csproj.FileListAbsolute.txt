@@ -1,0 +1,12 @@
+C:\Users\potatoo-pc\source\repos\PotatoEngine\PotatoEngine\bin\Debug\netcoreapp3.1\PotatoEngine.deps.json
+C:\Users\potatoo-pc\source\repos\PotatoEngine\PotatoEngine\bin\Debug\netcoreapp3.1\PotatoEngine.dll
+C:\Users\potatoo-pc\source\repos\PotatoEngine\PotatoEngine\obj\Debug\netcoreapp3.1\PotatoEngine.csprojAssemblyReference.cache
+C:\Users\potatoo-pc\source\repos\PotatoEngine\PotatoEngine\obj\Debug\netcoreapp3.1\PotatoEngine.AssemblyInfoInputs.cache
+C:\Users\potatoo-pc\source\repos\PotatoEngine\PotatoEngine\obj\Debug\netcoreapp3.1\PotatoEngine.AssemblyInfo.cs
+C:\Users\potatoo-pc\source\repos\PotatoEngine\PotatoEngine\bin\Debug\netcoreapp3.1\PotatoEngine.pdb
+C:\Users\potatoo-pc\source\repos\PotatoEngine\PotatoEngine\bin\Debug\netcoreapp3.1\PotatoUtils.dll
+C:\Users\potatoo-pc\source\repos\PotatoEngine\PotatoEngine\bin\Debug\netcoreapp3.1\PotatoUtils.pdb
+C:\Users\potatoo-pc\source\repos\PotatoEngine\PotatoEngine\obj\Debug\netcoreapp3.1\PotatoEngine.csproj.CopyComplete
+C:\Users\potatoo-pc\source\repos\PotatoEngine\PotatoEngine\obj\Debug\netcoreapp3.1\PotatoEngine.dll
+C:\Users\potatoo-pc\source\repos\PotatoEngine\PotatoEngine\obj\Debug\netcoreapp3.1\PotatoEngine.pdb
+C:\Users\potatoo-pc\source\repos\PotatoEngine\PotatoEngine\obj\Debug\netcoreapp3.1\PotatoEngine.csproj.CoreCompileInputs.cache
